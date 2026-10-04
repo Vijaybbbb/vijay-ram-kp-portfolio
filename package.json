@@ -1,0 +1,8 @@
+{
+  "name": "vijay-ram-kp-portfolio",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node test/resume.test.js"
+  }
+}
